@@ -114,9 +114,6 @@
    </td>
    <td><strong>- 이미지:</strong> An iridescent glass chair morphing and growing elegantly from a liquid metallic splash on the floor, pastel holographic colors, surrealism art installation, cinematic lighting, slow motion --ar 16:9
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](Resource/02.png)
 
 <p>
@@ -134,9 +131,6 @@
    </td>
    <td><strong>- 이미지:</strong> A luxury wide gallery room with a futuristic glass art furniture piece at the center radiating subtle colorful light, camera pan shot, hyper-realistic interior design --ar 16:9
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](Resource/03.png)
 
 <p>
@@ -153,9 +147,6 @@
 <strong>- 내레이션:</strong> 당신의 영감, 공간의 아우라가 되다. Aura.
    </td>
    <td><strong>- 이미지:</strong> A premium minimalist 2D branding outro. On a solid plain black background, the clean white logo icon and text "Aura" from the image are placed in the absolute center --ar 16:9
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](Resource/04-2.png)
 
@@ -184,18 +175,12 @@
   <tr>
    <td>The typography word "Aura" written in glass font, clear drop shadow, minimal ambient studio background, cinematic lighting --ar 16:9
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](Resource/04-1.png)
 
    </td>
    <td>아웃트로의 본질은 시선을 정돈하고 브랜드를 명확하게 각인시키는 것인데, 처음에 생성된 결과물이 기획 의도와 다르게 복잡하고 화려한 유리 조형물 형태로 출력됨. 엔딩 카드가 주어야 할 절제된 인상을 주지 못하고, 시각적 요소가 과도하여 정작 브랜드 로고와 텍스트로의 시선 집중을 방해하는 한계가 발생함.
    </td>
    <td>A premium minimalist 2D branding outro. On a solid plain black background, the clean white logo icon and text "Aura" from the image are placed in the absolute center --ar 16:9
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](Resource/04-2.png)
 
