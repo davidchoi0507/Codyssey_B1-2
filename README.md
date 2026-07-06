@@ -1,3 +1,45 @@
+<!-----
+
+You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see useful information and inline alerts.
+* ERRORs: 0
+* WARNINGs: 0
+* ALERTS: 6
+
+Conversion time: 6.576 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs™ to Markdown version 2.0β2
+* Mon Jul 06 2026 01:58:03 GMT-0700 (미 태평양 하계 표준시)
+* Source doc: README
+* Tables are currently converted to HTML tables.
+* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
+
+----->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 6.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+<a href="#gdcalert5">alert5</a>
+<a href="#gdcalert6">alert6</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+
 # 스토리보드 및 기획 문서
 
 
@@ -5,7 +47,7 @@
 
 **작성자:** 최다인
 
-**작성일:** 2026-06-28
+**작성일:** 2026-07-06
 
 
 ## 1. 브랜드 아이덴티티 및 캠페인 기획
@@ -13,15 +55,15 @@
 
 <table>
   <tr>
-   <td>항목
+   <td><strong>항목</strong>
    </td>
-   <td>내용
+   <td><strong>내용</strong>
    </td>
   </tr>
   <tr>
    <td><strong>브랜드명</strong>
    </td>
-   <td><strong>Aura(오라)</strong>
+   <td>Aura(오라)
    </td>
   </tr>
   <tr>
@@ -57,203 +99,153 @@
   <tr>
    <td><strong>핵심 메시지</strong>
    </td>
-   <td><strong>"당신의 영감, 공간의 아우라가 되다."</strong>
+   <td>"당신의 영감, 공간의 아우라가 되다."
    </td>
   </tr>
 </table>
 
 
 
-## 2. 스토리보드 (씬 구성 - 총 35초 분량)
+## 2. 스토리보드 (씬 구성 - 총 39초 분량)
 
-모든 시각 및 청각 요소는 생성형 AI를 통해 제작되도록 기획되었습니다.
+모든 시각 및 청각 요소는 생성형 AI를 통해 제작되도록 기획함.
 
 
 <table>
   <tr>
-   <td>씬 번호 / 길이
+   <td><strong>씬 번호 / 길이</strong>
    </td>
-   <td>목표 / 화면 / 카피
+   <td><strong>목표 / 화면 구성 / 내레이션</strong>
    </td>
-   <td>사용 도구 및 목적
+   <td><strong>사용 도구</strong>
    </td>
-   <td>프롬프트 및 결과 요약
-   </td>
-  </tr>
-  <tr>
-   <td><strong>씬 1 (Intro)</strong>
-<p>
-7초
-   </td>
-   <td>
-<ul>
-
-<li><strong>목표 메시지:</strong> 정체된 디자이너의 내면과 생각의 시작 표현</li>
-
-<li><strong>화면 구성:</strong> 어두운 미니멀 작업실. 디자이너가 캔버스나 모니터를 응시할 때, 머릿속에서 투명한 액체 금속 형태의 빛 방울이 피어나기 시작함.</li>
-
-<li><strong>내레이션/카피:</strong> (자막/내레이션) "영감은 어디에서 시작될까요?"</li>
-</ul>
-   </td>
-   <td>
-<ul>
-
-<li><strong>이미지:</strong> Midjourney / 작업실 베이스 디자인 컷 생성</li>
-
-<li><strong>비디오:</strong> Runway / 정적인 이미지에 유기적 액체 유동 효과 부여</li>
-
-<li><strong>오디오:</strong> ElevenLabs, Suno / 차분한 로우파이 앰비언트 비트와 나직한 목소리</li>
-</ul>
-   </td>
-   <td>
-<ul>
-
-<li><strong>입력 프롬프트:</strong> A cinematic macro shot of a single glowing iridescent liquid metal bubble floating in a dark minimalist designer studio, highly detailed 3d render, surreal, moody lighting, 8k --ar 16:9</li>
-
-<li><strong>출력 결과 요약:</strong> [실제 생성된 영상의 느낌을 1줄로 적어주세요]</li>
-
-<li><strong>파일명/링크:</strong> scene1_final.mp4</li>
-</ul>
+   <td><strong>프롬프트</strong>
    </td>
   </tr>
   <tr>
-   <td><strong>씬 2 (Main)</strong>
+   <td><strong>씬 1 / 9초</strong>
+   </td>
+   <td><strong>- 목표:</strong> 정체된 디자이너의 내면과 생각의 시작 표현
 <p>
-10초
+<strong>- 화면 구성:</strong> 어두운 미니멀 작업실. 디자이너가 캔버스나 모니터를 응시할 때, 머릿속에서 투명한 액체 금속 형태의 빛 방울이 피어나기 시작함.
+<p>
+<strong>- 내레이션:</strong> 영감은 어디에서 시작될까요?
    </td>
-   <td>
-<ul>
-
-<li><strong>목표 메시지:</strong> 디자인 아이디어가 현실 사물로 폭발하듯 구체화하는 과정</li>
-
-<li><strong>화면 구성:</strong> 액체 금속 구체가 바닥으로 떨어지며 파장을 일으키고, 그 파장에서 영롱한 파스텔톤과 유리 질감의 초현실적인 의자/오브제가 솟아오름.</li>
-
-<li><strong>내레이션/카피:</strong> (내레이션) "잡히지 않던 당신의 감각이 눈앞의 예술이 되는 순간."</li>
-</ul>
+   <td rowspan="4" ><strong>- 이미지:</strong> Nano Banana
+<p>
+<strong>- 비디오:</strong> Veo
+<p>
+<strong>- 오디오:</strong> ElevenLabs
    </td>
-   <td>
-<ul>
+   <td><strong>- 이미지:</strong> A cinematic macro shot of a single glowing iridescent liquid metal bubble floating in a dark minimalist designer studio, highly detailed 3d render, surreal, moody lighting, 8k --ar 16:9
 
-<li><strong>이미지:</strong> Midjourney / 유리 및 오로라 질감의 가구 오브제 생성</li>
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-<li><strong>비디오:</strong> Kling / 의자가 부드럽게 피어오르거나 질감이 변하는 영상 구현</li>
 
-<li><strong>오디오:</strong> Suno / 비트가 점차 고조되며 신비로운 신디사이저 사운드 추가</li>
-</ul>
-   </td>
-   <td>
-<ul>
+<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
 
-<li><strong>입력 프롬프트 (추천):</strong> An iridescent glass chair morphing and growing elegantly from a liquid metallic splash on the floor, pastel holographic colors, surrealism art installation, cinematic lighting, slow motion --ar 16:9</li>
-
-<li><strong>출력 결과 요약:</strong> [의자가 피어오르는 AI 변형 결과 요약]</li>
-
-<li><strong>파일명/링크:</strong> scene2_final.mp4</li>
-</ul>
+<p>
+<strong>- 비디오:</strong> Cinematic macro shot. The iridescent liquid metal bubble floats gently in the dark minimalist studio, vibrating subtly with shifting colorful light reflections. At the 5-second mark, the bubble suddenly drops down rapidly toward the floor, with the camera smoothly tracking the downward acceleration. Dramatic fluid physics, cinematic slow motion, 4k, seamless motion.
    </td>
   </tr>
   <tr>
-   <td><strong>씬 3 (Sub)</strong>
+   <td><strong>씬 2 / 10초</strong>
+   </td>
+   <td><strong>- 목표:</strong> 디자인 아이디어가 현실 사물로 폭발하듯 구체화하는 과정
 <p>
-13초
+<strong>- 화면 구성:</strong> 액체 금속 구체가 바닥으로 떨어지며 파장을 일으키고, 그 파장에서 영롱한 파스텔톤과 유리 질감의 초현실적인 의자/오브제가 솟아오름.
+<p>
+<strong>- 내레이션:</strong> 잡히지 않던 당신의 감각이 눈앞의 예술이 되는 순간.
    </td>
-   <td>
-<ul>
+   <td><strong>- 이미지:</strong> An iridescent glass chair morphing and growing elegantly from a liquid metallic splash on the floor, pastel holographic colors, surrealism art installation, cinematic lighting, slow motion --ar 16:9
 
-<li><strong>목표 메시지:</strong> 아우라 가구가 공간을 완성한 모습과 감동</li>
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-<li><strong>화면 구성:</strong> 완벽하게 매칭된 화이트 톤 전시 공간. 방금 태어난 오브제가 영롱하게 빛나며 전체 공간에 은은한 빛(아우라)을 전파함.</li>
 
-<li><strong>내레이션/카피:</strong> (내레이션) "공간을 채우는 가장 완벽한 빛깔."</li>
-</ul>
-   </td>
-   <td>
-<ul>
+<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
 
-<li><strong>이미지:</strong> Midjourney / 갤러리 룸 스페이스 디자인 생성</li>
-
-<li><strong>비디오:</strong> Luma / 카메라가 오브제를 중심으로 부드럽게 회전하는 무빙 구현</li>
-
-<li><strong>오디오:</strong> Suno / 웅장하면서도 미니멀한 클라이맥스 음향</li>
-</ul>
-   </td>
-   <td>
-<ul>
-
-<li><strong>입력 프롬프트 (추천):</strong> A luxury wide gallery room with a futuristic glass art furniture piece at the center radiating subtle colorful light, camera pan shot, hyper-realistic interior design --ar 16:9</li>
-
-<li><strong>출력 결과 요약:</strong> [카메라 워킹이 적용된 갤러리 전경 요약]</li>
-
-<li><strong>파일명/링크:</strong> scene3_final.mp4</li>
-</ul>
+<p>
+<strong>- 비디오:</strong> Explosive fluid motion. The liquid metallic splash on the floor instantly bursts upward, organically morphing and growing into the elegant iridescent glass chair. Liquid droplets float suspended in the air. Pastel holographic colors softly shimmer as the chair solidifies. Cinematic lighting, slow motion, hyper-realistic physics, 4k.
    </td>
   </tr>
   <tr>
-   <td><strong>씬 4 (Outro)</strong>
+   <td><strong>씬 3 / 10초</strong>
+   </td>
+   <td><strong>- 목표:</strong> 아우라 가구가 공간을 완성한 모습과 감동
 <p>
-5초
+<strong>- 화면 구성:</strong> 완벽하게 매칭된 화이트 톤 전시 공간. 방금 태어난 오브제가 영롱하게 빛나며 전체 공간에 은은한 빛(아우라)을 전파함.
+<p>
+<strong>- 내레이션:</strong> 공간을 채우는 가장 완벽한 빛깔.
    </td>
-   <td>
-<ul>
+   <td><strong>- 이미지:</strong> A luxury wide gallery room with a futuristic glass art furniture piece at the center radiating subtle colorful light, camera pan shot, hyper-realistic interior design --ar 16:9
 
-<li><strong>목표 메시지:</strong> 브랜드 각인 및 CTA (3~5초 구간 브랜드 장치)</li>
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-<li><strong>화면 구성:</strong> 화면이 깔끔한 모노톤 배경으로 전환되며 중앙에 투명 유리 질감의 로고 타이포그래피 'Aura'가 등장.</li>
 
-<li><strong>내레이션/카피:</strong> (자막/내레이션) "당신의 영감, 공간의 아우라가 되다. Aura"</li>
-</ul>
+<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
+
+<p>
+<strong>- 비디오:</strong> A smooth cinematic camera pan shot. The futuristic glass art furniture piece at the center slowly radiates subtle, colorful neon light waves across the dark luxury gallery. Light caustic reflections gently shimmer on the glossy concrete floor. Soft fluid movement, hyper-realistic architectural interior, 4k.
    </td>
-   <td>
-<ul>
-
-<li><strong>이미지:</strong> Midjourney 또는 편집 툴 / 로고 디자인 플레이스먼트</li>
-
-<li><strong>비디오:</strong> Runway / 로고 텍스처에 은은한 빛이 흐르는 효과 추가</li>
-
-<li><strong>오디오:</strong> ElevenLabs / 브랜드명을 속삭이듯 깔끔한 톤으로 마무리</li>
-</ul>
+  </tr>
+  <tr>
+   <td><strong>씬 4 / 10초</strong>
    </td>
-   <td>
-<ul>
+   <td><strong>- 목표:</strong> 브랜드 각인 및 CTA
+<p>
+<strong>- 화면 구성:</strong> 화면이 깔끔한 모노톤 배경으로 전환되며 중앙에 투명 유리 질감의 로고 타이포그래피 'Aura'가 등장.
+<p>
+<strong>- 내레이션:</strong> 당신의 영감, 공간의 아우라가 되다. Aura.
+   </td>
+   <td><strong>- 이미지:</strong> A premium minimalist 2D branding outro. On a solid plain black background, the clean white logo icon and text "Aura" from the image are placed in the absolute center --ar 16:9
 
-<li><strong>입력 프롬프트 (추천):</strong> The typography word "Aura" written in glass font, clear drop shadow, minimal ambient studio background, cinematic lighting --ar 16:9</li>
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-<li><strong>출력 결과 요약:</strong> [최종 로고 등장 애니메이션 요약]</li>
 
-<li><strong>파일명/링크:</strong> scene4_outro.mp4</li>
-</ul>
+<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
+
+<p>
+<strong>- 비디오:</strong> A high-end dynamic logo animation software design. On a solid black background, the centered white flat logo and bold sans-serif text "Aura" begin as a dynamic, fluid volumetric liquid wave, organically swirling and merging in the absolute center. At the 3-second mark, the fluid elements perfectly solidify and morph into the precise, crisp 2D white logo shape. The entire animation occurs strictly within the center 15% of the frame with abundant black negative space around it, never filling the screen or scaling too large. As it solidifies, a subtle iridescent holographic aurora glow sweeps elegantly across the logo edges. Masterful fluid simulation, premium commercial end-card, hyper-realistic physics, 4k.
    </td>
   </tr>
 </table>
 
 
 
-## 3. 프롬프트 개선 로그 (최소 1개 씬 필수 반영)
-
-가장 극적인 변화를 주어야 하는 **씬 2 (의자 생성 단계)**를 기준으로 작성된 가이드라인입니다. 툴을 쓰며 수정한 내용을 기록하세요.
+## 3. 프롬프트 개선 로그
 
 
 <table>
   <tr>
-   <td>수정 전 의도 및 프롬프트
+   <td><strong>수정 전 프롬프트 / 결과물</strong>
    </td>
-   <td>발생한 문제점
+   <td><strong>발생한 문제점</strong>
    </td>
-   <td>수정 후 변경 내용
+   <td><strong>수정 후 프롬프트 / 결과물</strong>
    </td>
-   <td>결과의 변화
+   <td><strong>개선 효과</strong>
    </td>
   </tr>
   <tr>
-   <td><strong>의도:</strong> 물 웅덩이에서 의자가 솟아오름
-<p>
-<strong>프롬프트:</strong> A chair coming out of water
+   <td>The typography word "Aura" written in glass font, clear drop shadow, minimal ambient studio background, cinematic lighting --ar 16:9
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
+
    </td>
-   <td>기대했던 디자인 감성(유리 질감, 오로라 빛)이 전혀 살지 않고 단순한 나무 의자가 물에서 나오는 어색한 그래픽이 생성됨.
+   <td>아웃트로의 본질은 시선을 정돈하고 브랜드를 명확하게 각인시키는 것인데, 처음에 생성된 결과물이 기획 의도와 다르게 복잡하고 화려한 유리 조형물 형태로 출력됨. 엔딩 카드가 주어야 할 절제된 인상을 주지 못하고, 시각적 요소가 과도하여 정작 브랜드 로고와 텍스트로의 시선 집중을 방해하는 한계가 발생함.
    </td>
-   <td>미술/디자인적 텍스처 키워드(iridescent, glass, morphing, surrealism)를 추가하여 예술적 무드로 재정의함.
+   <td>A premium minimalist 2D branding outro. On a solid plain black background, the clean white logo icon and text "Aura" from the image are placed in the absolute center --ar 16:9
+
+<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
+
    </td>
-   <td>디자이너가 의도한 영롱한 오로라 빛 유기적 형태의 오브제가 자연스럽게 트랜지션되는 고품질 에셋 확보.
+   <td>불필요하게 과했던 유리 조형물 요소를 전면 배제하고, 검정 배경 중앙에 작은 크기의 화이트 2D 로고 레이아웃을 확정함. 주변의 넓은 여백을 통해 시청자의 시선을 정중앙으로 확실하게 집중시켰으며, 의도했던 차분하고 세련된 글로벌 럭셔리 브랜드 특유의 미니멀 엔딩 카드를 완성함.
    </td>
   </tr>
 </table>
@@ -265,27 +257,28 @@
 
 <table>
   <tr>
-   <td>파일명
+   <td><strong>파일명</strong>
    </td>
-   <td>길이
+   <td><strong>길이</strong>
    </td>
-   <td>해상도
+   <td><strong>해상도</strong>
    </td>
-   <td>프레임레이트
+   <td><strong>프레임레이트</strong>
    </td>
-   <td>코덱 (비디오/오디오)
+   <td><strong>코덱 (비디오/오디오)</strong>
    </td>
   </tr>
   <tr>
-   <td>Aura_Brand_Branding_Video.mp4
+   <td>RESULT.mp4
    </td>
-   <td>35초
+   <td>39초
    </td>
-   <td>1920x1080 (1080p Full HD)
+   <td>1280x720 (1080p Full HD)
    </td>
-   <td>30 fps
+   <td>24 fps
    </td>
    <td>H.264 / AAC
    </td>
   </tr>
 </table>
+
