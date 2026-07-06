@@ -1,3 +1,45 @@
+<!-----
+
+You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see useful information and inline alerts.
+* ERRORs: 0
+* WARNINGs: 0
+* ALERTS: 6
+
+Conversion time: 6.576 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs™ to Markdown version 2.0β2
+* Mon Jul 06 2026 01:58:03 GMT-0700 (미 태평양 하계 표준시)
+* Source doc: README
+* Tables are currently converted to HTML tables.
+* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
+
+----->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 6.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+<a href="#gdcalert5">alert5</a>
+<a href="#gdcalert6">alert6</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+
 # 스토리보드 및 기획 문서
 
 
@@ -100,7 +142,7 @@
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+![alt_text](Resource/01.png)
 
 <p>
 <strong>- 비디오:</strong> Cinematic macro shot. The iridescent liquid metal bubble floats gently in the dark minimalist studio, vibrating subtly with shifting colorful light reflections. At the 5-second mark, the bubble suddenly drops down rapidly toward the floor, with the camera smoothly tracking the downward acceleration. Dramatic fluid physics, cinematic slow motion, 4k, seamless motion.
@@ -120,7 +162,7 @@
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
+![alt_text](Resource/02.png)
 
 <p>
 <strong>- 비디오:</strong> Explosive fluid motion. The liquid metallic splash on the floor instantly bursts upward, organically morphing and growing into the elegant iridescent glass chair. Liquid droplets float suspended in the air. Pastel holographic colors softly shimmer as the chair solidifies. Cinematic lighting, slow motion, hyper-realistic physics, 4k.
@@ -140,7 +182,7 @@
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
+![alt_text](Resource/03.png)
 
 <p>
 <strong>- 비디오:</strong> A smooth cinematic camera pan shot. The futuristic glass art furniture piece at the center slowly radiates subtle, colorful neon light waves across the dark luxury gallery. Light caustic reflections gently shimmer on the glossy concrete floor. Soft fluid movement, hyper-realistic architectural interior, 4k.
@@ -160,7 +202,7 @@
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
+![alt_text](Resource/04-2.png)
 
 <p>
 <strong>- 비디오:</strong> A high-end dynamic logo animation software design. On a solid black background, the centered white flat logo and bold sans-serif text "Aura" begin as a dynamic, fluid volumetric liquid wave, organically swirling and merging in the absolute center. At the 3-second mark, the fluid elements perfectly solidify and morph into the precise, crisp 2D white logo shape. The entire animation occurs strictly within the center 15% of the frame with abundant black negative space around it, never filling the screen or scaling too large. As it solidifies, a subtle iridescent holographic aurora glow sweeps elegantly across the logo edges. Masterful fluid simulation, premium commercial end-card, hyper-realistic physics, 4k.
@@ -190,7 +232,7 @@
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="iResource/01.png" width="" alt="alt_text" title="image_tooltip">
+![alt_text](Resource/04-1.png)
 
    </td>
    <td>아웃트로의 본질은 시선을 정돈하고 브랜드를 명확하게 각인시키는 것인데, 처음에 생성된 결과물이 기획 의도와 다르게 복잡하고 화려한 유리 조형물 형태로 출력됨. 엔딩 카드가 주어야 할 절제된 인상을 주지 못하고, 시각적 요소가 과도하여 정작 브랜드 로고와 텍스트로의 시선 집중을 방해하는 한계가 발생함.
@@ -200,7 +242,7 @@
 <p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
+![alt_text](Resource/04-2.png)
 
    </td>
    <td>불필요하게 과했던 유리 조형물 요소를 전면 배제하고, 검정 배경 중앙에 작은 크기의 화이트 2D 로고 레이아웃을 확정함. 주변의 넓은 여백을 통해 시청자의 시선을 정중앙으로 확실하게 집중시켰으며, 의도했던 차분하고 세련된 글로벌 럭셔리 브랜드 특유의 미니멀 엔딩 카드를 완성함.
