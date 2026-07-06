@@ -1,17 +1,3 @@
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 6.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # 스토리보드 및 기획 문서
 
 
@@ -204,7 +190,7 @@
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
+<img src="iResource/01.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
    <td>아웃트로의 본질은 시선을 정돈하고 브랜드를 명확하게 각인시키는 것인데, 처음에 생성된 결과물이 기획 의도와 다르게 복잡하고 화려한 유리 조형물 형태로 출력됨. 엔딩 카드가 주어야 할 절제된 인상을 주지 못하고, 시각적 요소가 과도하여 정작 브랜드 로고와 텍스트로의 시선 집중을 방해하는 한계가 발생함.
