@@ -2,7 +2,7 @@
 
 아래 이미지를 클릭하시면 광고 영상을 시청하실 수 있습니다.
 
-[![광고 영상 썸네일](01.png)](https://drive.google.com/file/d/1a0OMYps5ypiBF1iZVJ_4ObZEQ_TlrHOX/view?usp=sharing)
+[![광고 영상 썸네일](Resource/01.png)](https://drive.google.com/file/d/1a0OMYps5ypiBF1iZVJ_4ObZEQ_TlrHOX/view?usp=sharing)
 
 ---
 ### 사용 도구 및 기술 스택
