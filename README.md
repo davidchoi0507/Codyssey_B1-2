@@ -97,9 +97,6 @@
    </td>
    <td><strong>- 이미지:</strong> A cinematic macro shot of a single glowing iridescent liquid metal bubble floating in a dark minimalist designer studio, highly detailed 3d render, surreal, moody lighting, 8k --ar 16:9
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](Resource/01.png)
 
 <p>
